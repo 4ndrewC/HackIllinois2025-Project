@@ -22,3 +22,7 @@ The camera mounted on the robot tracks a specific hand landmark to keep the hand
 Point left/right/up/down to make the bot move left/right/forward/backwards respectively
 
 Robot has omni-directional wheels that allow for movement in 4 different directions
+
+# References
+
+https://www.instructables.com/How-to-Train-Custom-Hand-Gestures-Using-Mediapipe/ 
