@@ -6,7 +6,6 @@
 python3 mainsequential.py
 ``
 
----
 
 **Tools used**
 
@@ -16,7 +15,7 @@ python3 mainsequential.py
 
 - Raspberry Pi 4B
 
-***
+# 
 
 The camera mounted on the robot tracks a specific hand landmark to keep the hand in frame while gestures are performed
 
