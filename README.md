@@ -10,12 +10,13 @@ python3 mainsequential.py
 
 **Tools used**
 
-Google Mediapipe Library
+- Google Mediapipe Library
 
-Tensorflow
+- Tensorflow
 
-Raspberry Pi 4B
+- Raspberry Pi 4B
 
+***
 
 The camera mounted on the robot tracks a specific hand landmark to keep the hand in frame while gestures are performed
 
