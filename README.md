@@ -1,6 +1,6 @@
 # HackIllinois2025 Gesture-Controlled Bot
 
-**To run**
+**To run:**
 
 ``
 python3 mainsequential.py
